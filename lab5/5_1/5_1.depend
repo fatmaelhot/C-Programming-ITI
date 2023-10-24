@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1698062131 source:e:\iti open source\c\labs\lab5\5_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<conio.h>
+	"standerd_typed.h"
+
+1698054469 e:\iti open source\c\labs\lab5\5_1\standerd_typed.h
+

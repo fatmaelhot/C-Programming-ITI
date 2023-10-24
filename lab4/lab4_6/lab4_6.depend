@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1698008205 source:e:\iti open source\c\labs\tasks\lab4_6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<conio.h>
+
